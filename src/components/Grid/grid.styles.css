@@ -1,0 +1,9 @@
+.ag-theme-custom {
+  --ag-alpine-active-color: #1260cc;
+  --ag-value-change-value-highlight-background-color: #82caff;
+}
+
+.container {
+  height: 400px;
+  width: 1400px;
+}
